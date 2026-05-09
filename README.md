@@ -1,4 +1,4 @@
-# Hi, I'm Husnaak 👋
+# Hi, I'm Husnaak Mansoor 👋
 
 🎓 Software Engineering Student  
 🔐 Cybersecurity Enthusiast  
