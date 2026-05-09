@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student  
 🔐 Cybersecurity Enthusiast  
-💻 Flutter, Java, SQL, Networking  
+💻 Java, Python SQL, Networking  
 
 ## Tech Stack
 Java | Flutter | MySQL | Git | Firebase
