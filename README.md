@@ -13,8 +13,8 @@ Java | Flutter | MySQL | Git | Firebase
 - Secure Coding
 
 ## Featured Projects
-- Foodstagram
-- CarbonSim PK
+- Network Scanner and Visualizer
+- CarbonSim PK - Simulated Environment for Calculating Carbon Footprint
 - Java DSA Projects
 
 ## Goals for 2026
