@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Husnaak-Aly7
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me husnaakali2014@gmail.com
+# Hi, I'm Husnaak 👋
 
-<!---
-Husnaak-Aly7/Husnaak-Aly7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Software Engineering Student  
+🔐 Cybersecurity Enthusiast  
+💻 Flutter, Java, SQL, Networking  
+
+## Tech Stack
+Java | Flutter | MySQL | Git | Firebase
+
+## Currently Learning
+- Ethical Hacking
+- Network Security
+- Secure Coding
+
+## Featured Projects
+- Foodstagram
+- CarbonSim PK
+- Java DSA Projects
+
+## Goals for 2026
+- Land a cybersecurity internship
+- Contribute to open source
+- Build advanced security tools
