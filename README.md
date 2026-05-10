@@ -5,7 +5,7 @@
 💻 Java, Python SQL, Networking  
 
 ## Tech Stack
-Java | Flutter | MySQL | Git | Firebase
+Java | Python | MySQL | Git | Firebase
 
 ## Currently Learning
 - Ethical Hacking
